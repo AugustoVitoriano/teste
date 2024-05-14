@@ -1,0 +1,7 @@
+C:\Projetos Estudos Dev\Projetos C#\ConsoleApp119\ConsoleApp119\bin\Debug\ConsoleApp119.exe.config
+C:\Projetos Estudos Dev\Projetos C#\ConsoleApp119\ConsoleApp119\bin\Debug\ConsoleApp119.exe
+C:\Projetos Estudos Dev\Projetos C#\ConsoleApp119\ConsoleApp119\bin\Debug\ConsoleApp119.pdb
+C:\Projetos Estudos Dev\Projetos C#\ConsoleApp119\ConsoleApp119\obj\Debug\ConsoleApp119.csproj.AssemblyReference.cache
+C:\Projetos Estudos Dev\Projetos C#\ConsoleApp119\ConsoleApp119\obj\Debug\ConsoleApp119.csproj.CoreCompileInputs.cache
+C:\Projetos Estudos Dev\Projetos C#\ConsoleApp119\ConsoleApp119\obj\Debug\ConsoleApp119.exe
+C:\Projetos Estudos Dev\Projetos C#\ConsoleApp119\ConsoleApp119\obj\Debug\ConsoleApp119.pdb
